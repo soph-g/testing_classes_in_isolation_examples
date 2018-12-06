@@ -20,7 +20,7 @@ See each of the individual exercise files for the tests and code.
 
 ## How to use
 
-Run each of the tests individually, using `p` to get visibility when needed.
+Run the tests for each of the exercises, using `p` to get visibility when needed.
 
 You can use `p` in the tests, e.g.
 
